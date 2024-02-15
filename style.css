@@ -1,0 +1,12 @@
+hr {
+    width: 30px;
+    height: 8px;
+    background-color: black;
+}
+#mc img {
+    width: 250px;
+    height: 250px;
+}
+body {
+    background-color:rgb(54, 207, 54) ;
+}
